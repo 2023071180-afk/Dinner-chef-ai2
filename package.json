@@ -1,0 +1,18 @@
+dinner-chef-ai/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Splash.jsx
+│   │   ├── Onboarding.jsx
+│   │   ├── Home.jsx
+│   │   ├── Chat.jsx
+│   │   └── RecipeDetail.jsx
+│   ├── data/
+│   │   └── recipes.js
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.js
+├── .env.example
+├── package.json
+└── vercel.json
